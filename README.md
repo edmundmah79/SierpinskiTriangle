@@ -127,3 +127,8 @@ Samples of Student Work
 
 
 
+		triangle(x,y,x+(len/2),y,x+(len/4),(float)(y-(len/2*sin(PI/3))));
+		triangle(x+(len/2),y,x+len,y,x+(3*len/4),(float)(y-(len/2*sin(PI/3))))
+		triangle()
+}
+		triangle(x,y,x+(len/2),y,x+(len/4),(float)(y-(len/2*sin(PI/3))));
